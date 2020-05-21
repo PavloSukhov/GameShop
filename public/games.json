@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "title": "Fortnite",
+    "manufacturer": "EpicGames",
+    "image": "https://estnn.com/wp-content/uploads/2020/01/fortnite-chapter-2-800x450.jpg",
+    "price": 100,
+    "rating": 3
+  },
+  {
+    "id": 1,
+    "title": "Assasins Creed",
+    "manufacturer": "Ubisoft",
+    "image": "https://upload.wikimedia.org/wikipedia/ru/d/d9/Assassins_Creed_Revelations_Cover.jpg",
+    "price": 350,
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "title": "Metro 2033",
+    "manufacturer": "4A Engine",
+    "image": "https://data.1freewallpapers.com/detail/metro-redux.jpg",
+    "price": 500,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "title": "FarCry5",
+    "manufacturer": "Ubisoft",
+    "image": "https://upload.wikimedia.org/wikipedia/ru/4/42/Far_Cry_5_cover.png",
+    "price": 376,
+    "rating": 1
+  },
+  {
+    "id": 4,
+    "title": "Left4Dead",
+    "manufacturer": "Valve",
+    "image": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/44/L4D_PFT-360%2BPC.jpg/411px-L4D_PFT-360%2BPC.jpg",
+    "price": 253,
+    "rating": 0
+  },
+  {
+    "id": 5,
+    "title": "Wiedzmin 3",
+    "manufacturer": "Cdp.pl",
+    "image": "https://upload.wikimedia.org/wikipedia/ru/thumb/a/a2/The_Witcher_3-_Wild_Hunt_Cover.jpg/411px-The_Witcher_3-_Wild_Hunt_Cover.jpg",
+    "price": 342,
+    "rating": 4
+  },
+  {
+    "id": 6,
+    "title": "Apex Legends",
+    "manufacturer": "Origin",
+    "image": "https://delta-game.ru/wp-content/uploads/2019/02/Apex-Legends.png",
+    "price": 212,
+    "rating": 0
+  },
+  {
+    "id": 7,
+    "title": "CS:GO",
+    "manufacturer": "Valve",
+    "image": "https://img.championat.com/s/735x490/news/big/j/v/ishodnyj-kod-cs-go-popal-v-otkrytyj-dostup_1587630425839973076.jpg",
+    "price": 1,
+    "rating": 5
+  },
+  {
+    "id": 8,
+    "title": "PUBG",
+    "manufacturer": "PUBG Corporation",
+    "image": "https://upload.wikimedia.org/wikipedia/ru/thumb/c/c9/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B8%D0%B3%D1%80%D1%8B_PlayerUnknown%27s_Battlegrounds.jpg/411px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%B8%D0%B3%D1%80%D1%8B_PlayerUnknown%27s_Battlegrounds.jpg",
+    "price": 32,
+    "rating": 2
+  },
+  {
+    "id": 9,
+    "title": "Minecraft",
+    "manufacturer": "Mojang Studios",
+    "image": "https://upload.wikimedia.org/wikipedia/ru/thumb/b/b5/MinecraftLogo.svg/411px-MinecraftLogo.svg.png",
+    "price": 99999,
+    "rating": 1
+  }
+]
